@@ -4,8 +4,12 @@
 
 <pre>
 
-<html><style>code span span { display: inline-block; width: 8px; }</style>
-<code><span class="ascii" style="
+<html>
+<style>
+code span span { display: inline-block; width: 8px; }
+</style>
+<code>
+<span class="ascii" style="
 display:inline-block;
 white-space:pre;
 letter-spacing:0;
